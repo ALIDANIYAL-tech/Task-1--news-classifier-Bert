@@ -1,4 +1,4 @@
-[# News Topic Classifier Using BERT
+[[# News Topic Classifier Using BERT
 
 ## Objective
 Classify news headlines into 4 categories using BERT transformer model.
@@ -131,3 +131,4 @@ Agar professor visual proof chahte hain:
 □ 3 files upload kiye?
 □ Link copy kiya?
 □ Google Classroom pe submit kiya?](https://github.com/ALIDANIYAL-tech/Task-1--news-classifier-Bert/tree/main)
+](https://github.com/ALIDANIYAL-tech/Task-1--news-classifier-Bert/tree/main)
